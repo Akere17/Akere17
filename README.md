@@ -23,12 +23,22 @@ You can click the Preview link to take a look at your changes.
   <ol>
   <li>Flagyl</li>
   <li>Doliprane</li>
+    <!-- inner list -->
+    <ul>
+      <li>2cp if fever</li>
+      <li>1cp if moderate fever</li>
+      <li>1/2cp if no fever</li>
+    </ul>
+    <!-- end of inner list -->
   <li>Calcium</li>
   <li>Zentel</li>
   </ol>
   <ul>
   <li>Trofocard</li>
+  <img scr="http://go-student.net/uias/images/icon.png" alt="Hiams Logo" <img/>
   <li>Xykaa</li>
   <li>Pantotap</li>
+  <a href="http://go-student.net/uias/login">Hiams website</a>
   </ul>
+  
 </p>
